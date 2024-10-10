@@ -1,7 +1,3 @@
-Here’s a well-structured README file for your Airflow DAG project with explanations about Snowflake, Google Cloud Composer, and your ETL pipeline:
-
----
-
 # Stock Price ETL Pipeline using Apache Airflow, Snowflake, and Google Cloud Composer
 
 This repository contains an ETL pipeline built using Apache Airflow, integrated with **Snowflake** as the data warehouse and orchestrated via **Google Cloud Composer**. The pipeline extracts stock price data from the Alpha Vantage API, transforms it, and loads it into Snowflake for further analysis and storage.
